@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 8043d5b671037ce46a4070c7c1a6b77e
+timeCreated: 1431553358
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: white_platforms_with_shadows_0
+    21300002: white_platforms_with_shadows_1
+    21300004: white_platforms_with_shadows_2
+    21300006: white_platforms_with_shadows_3
+    21300008: white_platforms_with_shadows_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: white_platforms_with_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 774
+        width: 565
+        height: 212
+      alignment: 9
+      pivot: {x: .0898657441, y: .77434355}
+      border: {x: 51, y: 48, z: 45, w: 48}
+    - name: white_platforms_with_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 779
+        width: 330
+        height: 214
+      alignment: 9
+      pivot: {x: .145478964, y: .770421982}
+      border: {x: 48, y: 49, z: 48, w: 49}
+    - name: white_platforms_with_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 544
+        width: 1034
+        height: 210
+      alignment: 9
+      pivot: {x: .0464598387, y: .776335776}
+      border: {x: 48, y: 47, z: 48, w: 47}
+    - name: white_platforms_with_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 303
+        width: 1503
+        height: 210
+      alignment: 9
+      pivot: {x: .0319061279, y: .775949121}
+      border: {x: 48, y: 47, z: 48, w: 47}
+    - name: white_platforms_with_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1972
+        height: 210
+      alignment: 9
+      pivot: {x: .0240417365, y: .774236798}
+      border: {x: 47, y: 47, z: 49, w: 47}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f09fd6dd291240f45b7a954ec3cdbb11
+timeCreated: 1432163611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ghost_Player_Idle
+    21300002: Ghost_Player_Jump
+    21300004: Ghost_Player_DoubleJump1
+    21300006: Ghost_Player_DoubleJump4
+    21300008: Ghost_Player_DoubleJump3
+    21300010: Ghost_Player_DoubleJump2
+    21300012: Ghost_Player_DoubleJump5
+    21300014: Ghost_Player_DoubleJump6
+    21300016: Ghost_Player_Back
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ghost_Player_Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2918
+        width: 1440
+        height: 1144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_Jump
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2610
+        width: 1028
+        height: 1482
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump1
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 2520
+        width: 1028
+        height: 1504
+      alignment: 9
+      pivot: {x: .495473415, y: .614480853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1360
+        width: 1028
+        height: 1418
+      alignment: 9
+      pivot: {x: .495473176, y: .381857902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_Back
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 15
+        width: 1107
+        height: 1355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 1456
+        height: 1132
+      alignment: 9
+      pivot: {x: .343392164, y: .495889187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump6
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 5
+        width: 1212
+        height: 1270
+      alignment: 9
+      pivot: {x: .423209816, y: .547634125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1308
+        width: 1179
+        height: 1252
+      alignment: 9
+      pivot: {x: .559204817, y: .447964221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_Player_DoubleJump2
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1392
+        width: 1432
+        height: 1118
+      alignment: 9
+      pivot: {x: .64298439, y: .495837718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

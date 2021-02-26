@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5533f629923908644bd609db97549048
+timeCreated: 1431633182
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - newObject: {instanceID: 0}
+  - newbackground: {instanceID: 0}
+  - textureToDisplay: {fileID: 2800000, guid: a0eb7f1893fa0544f85ef48e5e661533, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
